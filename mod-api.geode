@@ -1,0 +1,14 @@
+{
+	"geode": "5.7.1",
+	"id": "user.autodecor_mod",
+	"version": "v5.7.1",
+	"name": "Auto Decor",
+	"developer": "User",
+	"description": "Мод на авто-глоу и пульсацию для редактора.",
+	"dependencies": [
+		{
+			"id": "geode.loader",
+			"version": ">=v5.7.1"
+		}
+	]
+}
